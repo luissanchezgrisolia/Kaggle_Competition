@@ -4,7 +4,7 @@ For Ironhack bootcamp
 
 **_Using machine learning, what is the best model to predict diamond's price?_**
 
-![alt text](INPUT/imagen.jpg)
+![alt text](Input/imagen.jpg)
 
 
 
